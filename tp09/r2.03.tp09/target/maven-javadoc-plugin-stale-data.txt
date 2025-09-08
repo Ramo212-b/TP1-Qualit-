@@ -1,0 +1,46 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'C:/Users/echam/OneDrive/Bureau/IUT/Semestre 2/Qualité/tp09/r2.03.tp09/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/echam/OneDrive/Bureau/IUT/Semestre 2/Qualité/tp09/r2.03.tp09/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'r2.03.tp09 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/echam/OneDrive/Bureau/IUT/Semestre 2/Qualité/tp09/r2.03.tp09/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'r2.03.tp09 1.0-SNAPSHOT API'
+tps.autresClasses
+tps.banque
+tps.banque.exception
+C:\Users\echam\OneDrive\Bureau\IUT\Semestre 2\Qualité\tp09\r2.03.tp09\src\main\java = 1743868254977
+C:\Users\echam\OneDrive\Bureau\IUT\Semestre 2\Qualité\tp09\r2.03.tp09\target\site\apidocs\allclasses-index.html = 1743871862152
+C:\Users\echam\OneDrive\Bureau\IUT\Semestre 2\Qualité\tp09\r2.03.tp09\target\site\apidocs\allpackages-index.html = 1743871862154
+C:\Users\echam\OneDrive\Bureau\IUT\Semestre 2\Qualité\tp09\r2.03.tp09\target\site\apidocs\constant-values.html = 1743871862062
+C:\Users\echam\OneDrive\Bureau\IUT\Semestre 2\Qualité\tp09\r2.03.tp09\target\site\apidocs\element-list = 1743871862020
+C:\Users\echam\OneDrive\Bureau\IUT\Semestre 2\Qualité\tp09\r2.03.tp09\target\site\apidocs\help-doc.html = 1743871862187
+C:\Users\echam\OneDrive\Bureau\IUT\Semestre 2\Qualité\tp09\r2.03.tp09\target\site\apidocs\index-all.html = 1743871862170
+C:\Users\echam\OneDrive\Bureau\IUT\Semestre 2\Qualité\tp09\r2.03.tp09\target\site\apidocs\index.html = 1743871862131
+C:\Users\echam\OneDrive\Bureau\IUT\Semestre 2\Qualité\tp09\r2.03.tp09\target\site\apidocs\member-search-index.js = 1743871862157
+C:\Users\echam\OneDrive\Bureau\IUT\Semestre 2\Qualité\tp09\r2.03.tp09\target\site\apidocs\module-search-index.js = 1743871862155
+C:\Users\echam\OneDrive\Bureau\IUT\Semestre 2\Qualité\tp09\r2.03.tp09\target\site\apidocs\overview-summary.html = 1743871862177
+C:\Users\echam\OneDrive\Bureau\IUT\Semestre 2\Qualité\tp09\r2.03.tp09\target\site\apidocs\overview-tree.html = 1743871862126
+C:\Users\echam\OneDrive\Bureau\IUT\Semestre 2\Qualité\tp09\r2.03.tp09\target\site\apidocs\package-search-index.js = 1743871862156
+C:\Users\echam\OneDrive\Bureau\IUT\Semestre 2\Qualité\tp09\r2.03.tp09\target\site\apidocs\search.html = 1743871862173
+C:\Users\echam\OneDrive\Bureau\IUT\Semestre 2\Qualité\tp09\r2.03.tp09\target\site\apidocs\serialized-form.html = 1743871862067
+C:\Users\echam\OneDrive\Bureau\IUT\Semestre 2\Qualité\tp09\r2.03.tp09\target\site\apidocs\tag-search-index.js = 1743871862158
+C:\Users\echam\OneDrive\Bureau\IUT\Semestre 2\Qualité\tp09\r2.03.tp09\target\site\apidocs\type-search-index.js = 1743871862156
