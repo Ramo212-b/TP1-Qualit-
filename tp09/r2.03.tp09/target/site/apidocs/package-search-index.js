@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"tps.autresClasses"},{"l":"tps.banque"},{"l":"tps.banque.exception"}];updateSearchResults();
